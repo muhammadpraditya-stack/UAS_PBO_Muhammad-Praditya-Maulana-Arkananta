@@ -1,6 +1,6 @@
 <?php
 require_once 'karyawan.php';
-
+//praditya
 class KaryawanKontrak extends Karyawan {
     private $durasiKontrakBulan;
     private $agensiPenyalur;
