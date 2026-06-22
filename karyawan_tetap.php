@@ -1,6 +1,6 @@
 <?php
 require_once 'karyawan.php';
-
+//praditya
 class KaryawanTetap extends Karyawan {
     private $tunjanganKesehatan;
     private $opsiSahamID;
