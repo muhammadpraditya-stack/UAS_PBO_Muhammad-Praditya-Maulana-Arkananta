@@ -4,7 +4,9 @@ class Database {
     private $host     = "localhost";
     private $username = "root";
     private $password = ""; // Kosongkan jika menggunakan XAMPP bawaan
-    private $database = "DB_UAS_PBO_TI 1C_Muhammad Praditya Maulana Arkananta"; 
+    
+    // UBAH BARIS INI SESUAI NAMA DATABASE UAS ANDA:
+    private $database = "db_uas_pbo_ti1c_muhammad praditya maulana arkananta"; 
     public $koneksi;
 
     public function __construct() {
